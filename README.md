@@ -1,20 +1,20 @@
 <h1 align="center">
-  Next.js blog starter
+  Oranjepraat site
 </h1>
 
-Start off your writing journey with this Next.js markdown blog template.
+The main site of the podcast Oranje Praat
 
 ## ✏ Features
 
-- Streamlined styling experience with [Tailwind.css](https://tailwindcss.com/).
-- Customizable typographic defaults with [Tailwind Typography](https://github.com/tailwindlabs/tailwindcss-typography)
-- Automatic image preview and optimization with [next-optimized-images](https://github.com/cyrilwanner/next-optimized-images).
-- Lazyload images.
-- Absolute imports.
-- SEO friendly.
-- Markdown code highlighting with [react-syntax-highlighter](https://www.npmjs.com/package/react-syntax-highlighter) and [PrismJs](https://prismjs.com/).
-- Dark Mode
-- WebP image support
+-   Streamlined styling experience with [Tailwind.css](https://tailwindcss.com/).
+-   Customizable typographic defaults with [Tailwind Typography](https://github.com/tailwindlabs/tailwindcss-typography)
+-   Automatic image preview and optimization with [next-optimized-images](https://github.com/cyrilwanner/next-optimized-images).
+-   Lazyload images.
+-   Absolute imports.
+-   SEO friendly.
+-   Markdown code highlighting with [react-syntax-highlighter](https://www.npmjs.com/package/react-syntax-highlighter) and [PrismJs](https://prismjs.com/).
+-   Dark Mode
+-   WebP image support
 
 ## 🚀 Getting Started
 
@@ -44,8 +44,8 @@ For more information, please check out Tailwind Typography's [customization sect
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+-   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/zeit/next.js/) - your feedback and contributions are welcome!
 
@@ -53,16 +53,16 @@ You can check out [the Next.js GitHub repository](https://github.com/zeit/next.j
 
 To learn more about Tailwind CSS, take a look at the following resources:
 
-- [Tailwind Documentation](https://tailwindcss.com/) - learn about Tailwind CSS features and API.
+-   [Tailwind Documentation](https://tailwindcss.com/) - learn about Tailwind CSS features and API.
 
 ## ☑ Upcoming features
 
-- [ ] Add Sitemap
-- [ ] Add RSS Feed
-- [x] Dark Mode
-- [x] Add support for WebP images
-- [x] Add SEO Component
-- [x] Add Dynamic Site Metadata
+-   [ ] Add Sitemap
+-   [ ] Add RSS Feed
+-   [x] Dark Mode
+-   [x] Add support for WebP images
+-   [x] Add SEO Component
+-   [x] Add Dynamic Site Metadata
 
 ## ☁ Deploy
 
